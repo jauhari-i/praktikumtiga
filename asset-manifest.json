@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/praktikumtiga/static/css/main.8bad8c69.chunk.css",
+    "main.js": "/praktikumtiga/static/js/main.528dd2bb.chunk.js",
+    "main.js.map": "/praktikumtiga/static/js/main.528dd2bb.chunk.js.map",
+    "runtime-main.js": "/praktikumtiga/static/js/runtime-main.94278de3.js",
+    "runtime-main.js.map": "/praktikumtiga/static/js/runtime-main.94278de3.js.map",
+    "static/js/2.0a402d4e.chunk.js": "/praktikumtiga/static/js/2.0a402d4e.chunk.js",
+    "static/js/2.0a402d4e.chunk.js.map": "/praktikumtiga/static/js/2.0a402d4e.chunk.js.map",
+    "index.html": "/praktikumtiga/index.html",
+    "precache-manifest.a1ac7830ee1d584d11f3f6a5e398c286.js": "/praktikumtiga/precache-manifest.a1ac7830ee1d584d11f3f6a5e398c286.js",
+    "service-worker.js": "/praktikumtiga/service-worker.js",
+    "static/css/main.8bad8c69.chunk.css.map": "/praktikumtiga/static/css/main.8bad8c69.chunk.css.map",
+    "static/js/2.0a402d4e.chunk.js.LICENSE.txt": "/praktikumtiga/static/js/2.0a402d4e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94278de3.js",
+    "static/js/2.0a402d4e.chunk.js",
+    "static/css/main.8bad8c69.chunk.css",
+    "static/js/main.528dd2bb.chunk.js"
+  ]
+}

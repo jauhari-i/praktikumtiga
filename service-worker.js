@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/praktikumtiga/precache-manifest.a1ac7830ee1d584d11f3f6a5e398c286.js"
+  "/praktikumtiga/precache-manifest.c786a1dd42eb58e3f67b253ccc8960d7.js"
 );
 
 self.addEventListener('message', (event) => {

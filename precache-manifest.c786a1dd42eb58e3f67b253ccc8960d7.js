@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "17ba8fd9b4e8b6e24dc5e7126ffadaa9",
+    "revision": "b2173f77f646da91f7b440bc3b3354d4",
     "url": "/praktikumtiga/index.html"
   },
   {
-    "revision": "d88076e5d27b5ee000fb",
+    "revision": "81612f0c3d8368368944",
     "url": "/praktikumtiga/static/css/main.8bad8c69.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/praktikumtiga/static/js/2.0a402d4e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d88076e5d27b5ee000fb",
-    "url": "/praktikumtiga/static/js/main.528dd2bb.chunk.js"
+    "revision": "81612f0c3d8368368944",
+    "url": "/praktikumtiga/static/js/main.a9db6ba7.chunk.js"
   },
   {
     "revision": "faebda0ce1fb8869e447",

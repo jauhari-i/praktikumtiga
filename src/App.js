@@ -473,7 +473,12 @@ const DeleteModal = ({ data, setMessage }) => {
             <button type="button" className="btn btn-secondary" data-dismiss="modal">
               Tidak
             </button>
-            <button onClick={deletePegawai} type="button" className="btn btn-primary">
+            <button
+              disabled={isLoadingDelete}
+              onClick={deletePegawai}
+              type="button"
+              className="btn btn-primary"
+            >
               {isLoadingDelete ? 'Menghapus...' : 'Ya'}
             </button>
           </div>
